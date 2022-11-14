@@ -1,0 +1,129 @@
+    1  docker start centos7
+    2  docker stop centos7
+    3  docker stop centos
+    4  docker stop centos7
+    5  docker stop centos7;
+    6  ls /
+    7  docker stop centos7
+    8  $ docker stop centos7
+    9  exit
+   10  ls /usr
+   11  pwd
+   12  lsl /usr
+   13  lsl /usr
+   14  lal /usr
+   15  la /usr
+   16  ls -l /usr
+   17  cd /root
+   18  pwd
+   19  cd usr
+   20  cd /usr
+   21  pwd
+   22  cd /
+   23  pwd
+   24  mkdir home
+   25  cd home
+   26  pe
+   27  pwd
+   28  mkdir test1, test2
+   29  cd test2
+   30  pwd
+   31  mkdir test3
+   32  cd ..
+   33  ls
+   34  cd..
+   35  cd ..
+   36  ls
+   37  cd home
+   38  cd test1
+   39  cd test2
+   40  cd ..
+   41  cd test1,
+   42  del test1,
+   43  cd ..
+   44  delete test1,
+   45  del test1,
+   46  rename test1, test1
+   47  cd test1,
+   48  rename test1
+   49  rename -h
+   50  remove
+   51  del
+   52  cd ..
+   53  mkdir test1
+   54  touch test1/index.php
+   55  ls test1
+   56  ls
+   57  cd test && ls
+   58  cd test1 && ls
+   59  cp index.php copy.php
+   60  ls
+   61  cd ..
+   62  cp -r test1 test4
+   63  ls
+   64  mv test2/test3 test3
+   65  ls
+   66  mv test4 test1_copy
+   67  ls
+   68  rm test1,
+   69  ls
+   70  rm -r test1, && ls
+   71  rm -r test1, && ls
+   72  rm test1_copy/*.php && ls test1_copy
+   73  ls test1_copy
+   74  test1
+   75  ls test1
+   76  cat README.md
+   77  cd /
+   78  cat README.md
+   79  cd home
+   80  echo 'Server Lesson' > README.md
+   81  cat README.md
+   82  echo 'Server Lesson2' > README.md
+   83  cat README.md
+   84  echo 'Server Lesson3' > README.md
+   85  cat README.md
+   86  echo 'Server Lesson4' >> README.md
+   87  cat README.md
+   88  vi README.md
+   89  exit
+   90  root */server_lesson
+   91  root server_lesson
+   92  cd server_lesson
+   93  cd ?root/server_lesson
+   94  cd /root/server_lesson
+   95  git status
+   96  git config --global user.name syoumayosimura
+   97  git commit -m "trash"
+   98  git config --global user.email syouma.yosimura.1218@gmail.com
+   99  git config --global user.name syoumayosimura
+  100  git commit -m "trash"
+  101  git status
+  102  git log
+  103  git add origin server
+  104  git add origin https://github.com/syoumayosimura/server.git
+  105  git remote -v
+  106  git remote add origin https://github.com/syoumayosimura/server.git
+  107  git remote -v
+  108  git push origin
+  109  git push origin
+  110* git re
+  111  git push origin master
+  112  git remote -v
+  113  git push origin master
+  114  git status
+  115  git branch name
+  116  git branch status
+  117  git branch -v
+  118  git push origin master
+  119  git remote set-url git@syoumayosimura.com:syouma.yosimura/server.git
+  120  git push origin master
+  121  git remote -v
+  122  git push origin master
+  123  git push origin master
+  124  git push origin master
+  125  cd linux_practice2
+  126  touch .gitignore
+  127  ls
+  128  vi .gitignore
+  129  history 300 >exec_command.log
